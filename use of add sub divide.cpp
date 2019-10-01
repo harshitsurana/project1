@@ -14,7 +14,7 @@ int main()
     cin>>y;
     cout << "Enter z:" ;
     cin>>z;
-    p=(w+x)//(y-z);
-    cout<<"\n"<<"P:"<<p';
+    p=(w+x)/(y-z);
+    cout<<"\n"<<"P:"<<p;
     return 0;
 }
